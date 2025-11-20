@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/crazyclient.dir/src/crazyclient.cpp.o -o crazyclient 
