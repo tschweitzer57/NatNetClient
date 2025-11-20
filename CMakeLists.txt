@@ -10,7 +10,9 @@ set(CMAKE_CXX_STANDARD 17)
 # Declare and configure executable
 add_executable(crazyclient "src/crazyclient.cpp")
 target_include_directories(crazyclient
-    PRIVATE
+        PRIVATE
         "${PROJECT_SOURCE_DIR}/include"
-        "${PROJECT_SOURCE_DIR}/lib"
     )
+
+target_link_directories(crazyclient PRIVATE ${PROJECT_SOURCE_DIR}/lib)
+target_link_libraries(crazyclient PRIVATE NatNet)
