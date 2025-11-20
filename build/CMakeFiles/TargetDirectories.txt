@@ -1,0 +1,3 @@
+/home/estacalab/Documents/MOCAP/3_NatNet_customcpp/build/CMakeFiles/crazyclient.dir
+/home/estacalab/Documents/MOCAP/3_NatNet_customcpp/build/CMakeFiles/edit_cache.dir
+/home/estacalab/Documents/MOCAP/3_NatNet_customcpp/build/CMakeFiles/rebuild_cache.dir
